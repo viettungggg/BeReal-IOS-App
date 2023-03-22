@@ -1,0 +1,16 @@
+PODS:
+  - ParseSwift (4.14.2)
+
+DEPENDENCIES:
+  - ParseSwift
+
+SPEC REPOS:
+  trunk:
+    - ParseSwift
+
+SPEC CHECKSUMS:
+  ParseSwift: 5df70e3d5aed3351fb3188ddf0a2812b7983a379
+
+PODFILE CHECKSUM: f7948fbc1b2e6aa876c497527b660216a76ba5be
+
+COCOAPODS: 1.12.0
